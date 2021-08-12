@@ -21,7 +21,7 @@ If you would like to contribute to this project, please follow the guidelines be
 You may use my project as you wish.
 
 ## Video Link
-
+https://youtu.be/Ypo4nbwXGMA 
 
 ## Testing
 To test the routes use Insomnia as I did in the video.
